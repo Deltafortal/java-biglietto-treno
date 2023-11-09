@@ -8,7 +8,7 @@ public class CalcolaBiglietto {
 		
 		
 		// Starting values
-		double standard_price = 1; //TODO CHANGE Value to 0.21
+		double standard_price = 0.21; //TODO CHANGE Value to 0.21
 		int under_age_sales = 20;
 		int over_65_sales = 40;
 		
